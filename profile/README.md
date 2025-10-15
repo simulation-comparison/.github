@@ -6,6 +6,10 @@ In computational modelling and simulation, establishing metrological traceabilit
 
 Just as experimental measurements require validation against standards and inter-laboratory comparisons, computational simulations need similar frameworks for establishing confidence and uncertainty quantification. By providing transparent, version-controlled comparison studies, these repositories aim to advance computational metrology and help researchers make informed decisions about simulation tools and methods.
 
+## Repositories
+
+- [scdb-ri](https://github.com/simulation-comparison/scdb-ri) Simulation comparison database for ionizing radiation.
+
 ## Purpose
 
 Repositories under this organization may provide:
