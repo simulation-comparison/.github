@@ -1,14 +1,14 @@
 # Simulation comparison database (scdb)
 
+## Repositories
+
+- [scdb-ri](https://github.com/simulation-comparison/scdb-ri) Simulation comparison database for ionizing radiation.
+
 ## Overview
 
 In computational modelling and simulation, establishing metrological traceability and rigorous benchmarking standards is essential for ensuring reliable and reproducible results. This GitHub organization hosts repositories dedicated to systematic comparisons of simulation software, with a focus on creating traceable reference data and standardized benchmarks analogous to those used in experimental metrology.
 
 Just as experimental measurements require validation against standards and inter-laboratory comparisons, computational simulations need similar frameworks for establishing confidence and uncertainty quantification. By providing transparent, version-controlled comparison studies, these repositories aim to advance computational metrology and help researchers make informed decisions about simulation tools and methods.
-
-## Repositories
-
-- [scdb-ri](https://github.com/simulation-comparison/scdb-ri) Simulation comparison database for ionizing radiation.
 
 ## Purpose
 
